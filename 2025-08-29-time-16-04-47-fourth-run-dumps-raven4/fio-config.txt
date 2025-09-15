@@ -1,0 +1,10 @@
+Devices: ssdraid zram0 zram1 zram2
+Total file size during runs: 
+Block sizes: 4K 8K 16K
+Numbers of processes: 32 64
+Read/write type options: read randread
+Async I/O engines: 
+Async I/O depths: 
+Sync I/O engines: mmap sync
+Dacapo benchmarks used: avrora batik biojava cassandra eclipse fop graphchi h2 h2o jme jython kafka luindex lusearch pmd spring sunflow tomcat tradebeans tradesoap xalan zxing
+Number of dumps per bench: 2

@@ -1,0 +1,4 @@
+NAME       ALGORITHM DISKSIZE  DATA  COMPR TOTAL STREAMS MOUNTPOINT
+/dev/zram0 lzo           128G  5.4M 437.9K  580K     256 /home/users/u7300623/ssdVSzram-benchmark/zrammnt0-lzo
+/dev/zram1 zstd          128G  5.4M   246K  472K     256 /home/users/u7300623/ssdVSzram-benchmark/zrammnt1-zstd
+/dev/zram2 lz4           128G  5.4M 454.2K  616K     256 /home/users/u7300623/ssdVSzram-benchmark/zrammnt2-lz4

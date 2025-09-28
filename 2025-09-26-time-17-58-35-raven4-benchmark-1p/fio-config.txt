@@ -1,0 +1,8 @@
+Devices: ssdraid zram0 zram1 zram2
+Total file size during runs: 34359738368
+Block sizes: 4096 65536
+Numbers of processes: 1
+Read/write type options: read write rw randread randwrite randrw
+Async I/O engines: libaio io_uring
+Async I/O depths: 128
+Sync I/O engines: sync mmap

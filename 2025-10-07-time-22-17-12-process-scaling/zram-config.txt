@@ -1,0 +1,4 @@
+NAME       DISKSIZE  DATA  COMPR ALGORITHM STREAMS ZERO-PAGES TOTAL MEM-LIMIT MEM-USED MIGRATED MOUNTPOINT
+/dev/zram0     200G  6.1M 618.4K lzo           256          9  800K      100G     836K       0B /mnt/zrammnt0-lzo
+/dev/zram1     200G  6.1M 336.8K zstd          256          9  532K      100G     536K       0B /mnt/zrammnt1-zstd
+/dev/zram2     200G  6.1M 655.1K lz4           256          9  848K      100G     880K       0B /mnt/zrammnt2-lz4

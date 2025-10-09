@@ -1,0 +1,9 @@
+Devices: ssd zram0 zram1 zram2 ram
+Total file size during runs: 34359738368
+Block sizes: 4K 64K 1M
+Numbers of processes: 1 256
+Read/write type options: read write randread randwrite
+Async I/O engines: 
+Async I/O depths: 
+Sync I/O engines: sync
+Compression percentages: 50

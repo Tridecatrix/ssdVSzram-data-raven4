@@ -1,0 +1,40 @@
+ioheaders  failed_reads failed_writes invalid_io notify_free
+mmheaders  orig_data_size compr_data_size mem_used_total mem_limit mem_used_max same_pages pages_compacted huge_pages huge_pages_since
+bdheaders  bd_count bd_reads bd_writes
+
+iostat         0        0 0 491883431
+mmstat  35445936128 18982857056 19484962816 107374182400 19484962816    10104        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491883431
+mmstat  35445936128 18982857056 19484962816 107374182400 19484962816    10104        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491883431
+mmstat  37798400000 20256453225 20790587392 107374182400 20790587392    10104        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491883431
+mmstat  42348445696 22719795520 23315730432 107374182400 23315730432    10104        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491883506
+mmstat  47030972416 25253793776 25913733120 107374182400 25913733120    10615        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491893337
+mmstat  51950583808 27917215504 28643196928 107374182400 28643196928    10615        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491904386
+mmstat  57480347648 30910969025 31713083392 107374182400 31713083392    10615        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491915897
+mmstat  62162231296 33445663060 34311585792 107374182400 34311585792    10614        0        1        1
+bdstat         0        0        0
+
+iostat         0        0 0 491925835
+mmstat  67796078592 36495763189 37436235776 107374182400 37436235776    10614        0        1        1
+bdstat         0        0        0
+

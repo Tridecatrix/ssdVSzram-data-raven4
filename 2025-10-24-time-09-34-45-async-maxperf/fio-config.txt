@@ -1,0 +1,9 @@
+Devices: ssd
+Total file size during runs: 34359738368
+Block sizes: 64K
+Numbers of processes: 1
+Read/write type options: read write
+Async I/O engines: io_uring
+Async I/O depths: 128 256 512 1024
+Sync I/O engines: 
+Compression percentages: 50
